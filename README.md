@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danamaca-28
-- 👀 I’m interested in learning JavaScript/TypeScript/Python
-- 🌱 I’m currently learning Javascript/TypeScript
+- 👀 Aspiring QA Manual Tester | Learning software testing step by step
+- 🌱 I’m currently learning Javascript/TypeScript/Cypress
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me maca_dana@yahoo.com
 - 😄 Pronouns: She/her
