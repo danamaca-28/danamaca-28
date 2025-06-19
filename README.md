@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danamaca-28
-- 👀 Aspiring QA Manual Tester | Learning software testing step by step
+- 👀 Aspiring QA Manual/Automation Tester | Learning software testing step by step
 - 🌱 I’m currently learning Javascript/TypeScript/Cypress
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me maca_dana@yahoo.com
